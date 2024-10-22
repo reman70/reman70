@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html dir="rtl"lang="ar>
+ <head>
+  <title>Examples</title>
+  <meta charset="UTF-8" />
+</head>
+<body>
+ <h1>العاب جماعية</h1>
+<ol>
+   <li>كرة قدم</li>
+   <li>كرة السلة</li>
+   <li>كرة اليد</li>
+   <li>كريكيت</li>
+  </ol>
+ </body>
+</html>
